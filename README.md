@@ -29,8 +29,8 @@ No installation or backend setup required. Just copy and paste the iframe code i
 ## 👣 How to use DictSnap: Step-by-step
 
 - Type an English word in the search bar.
-- View its meaning, synonyms, and an example.
-- Click the heart icon to add it to favorites.
+- View its meaning, phonetic, and an example.
+- Click the "Add to favorite" button to add it to favorites.
 - Your recent searches appear in the history section.
 
 ## 🌟 Features
