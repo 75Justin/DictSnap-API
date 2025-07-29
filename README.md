@@ -1,5 +1,5 @@
 # DictSnap-API
-DictSnap API is a user-friendly dictionary tool built using ToolJet. It helps learners explore vocabulary through clear definitions, example sentences, synonyms, and categorized word types—all in one simple interface.
+DictSnap API is a user-friendly dictionary tool built using ToolJet. It helps learners explore vocabulary through clear definitions, example sentences, and phonetic. All in one simple interface.
 
 You can embed DictSnap directly into your own website using an iframe, making it easy to integrate without any backend code or authentication.
 
@@ -20,26 +20,25 @@ html
   allowfullscreen>
 </iframe>]
 
-🌟 Features
+## 🌟 Features
 🔍 Search for English words
-
-💬 View meaning, synonyms, and example usage
-
+💬 View meaning, example usage, and phonetic
 ❤️ Mark words as favorites
+📝 Copy to clipboard
 
-📜 Track search history
+## 📜 Track search history
 
 DictSnap is great for students, English learners, and educators who want a lightweight tool to enrich their vocabulary.
 
 --
-🧰 Project Structure
+## 🧰 Project Structure
 
 DictSnap-API/
-├── README.md              # This documentation
-└── index.html             # Demo file that embeds the ToolJet app using iframe
+├── README.md              This documentation
+└── index.html             Demo file that embeds the ToolJet app using iframe
 
-🚀 Deployment Notes
+## 🚀 Deployment Notes
 DictSnap is hosted entirely on ToolJet Cloud. There’s no need for API keys or backend setup. All updates to the dictionary happen within the ToolJet interface and are instantly reflected in the embedded version.
 
-📄 License
-© 2025 — Built by Justin Valladares and Nathanael Morales
+## 📄 License
+© 2025 — Built by Justin Valladares and Natanael Morales
