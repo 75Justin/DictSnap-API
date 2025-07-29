@@ -22,6 +22,10 @@ html
 </iframe>]
 ```
 
+## 🛠️ Setup Instructions
+
+No installation or backend setup required. Just copy and paste the iframe code into any HTML file to get started.
+
 
 ## 🌟 Features
 ```
