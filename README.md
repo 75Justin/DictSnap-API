@@ -12,6 +12,7 @@ You can embed DictSnap directly into your own website using an iframe, making it
 To use DictSnap API, simply embed it in your website with the following HTML snippet:
 
 html
+```
 <iframe
   src="https://app.tooljet.ai/applications/f64a0969-d9d9-45f2-80ac-f6dfe84f2acc"
   width="100%"
@@ -19,12 +20,17 @@ html
   frameborder="0"
   allowfullscreen>
 </iframe>]
+```
+
 
 ## 🌟 Features
+```
 🔍 Search for English words
 💬 View meaning, example usage, and phonetic
 ❤️ Mark words as favorites
 📝 Copy to clipboard
+```
+
 
 ## 📜 Track search history
 
@@ -32,10 +38,12 @@ DictSnap is great for students, English learners, and educators who want a light
 
 --
 ## 🧰 Project Structure
+```
 
 DictSnap-API/
 ├── README.md              This documentation
 └── index.html             Demo file that embeds the ToolJet app using iframe
+```
 
 ## 🚀 Deployment Notes
 DictSnap is hosted entirely on ToolJet Cloud. There’s no need for API keys or backend setup. All updates to the dictionary happen within the ToolJet interface and are instantly reflected in the embedded version.
