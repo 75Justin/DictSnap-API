@@ -26,6 +26,12 @@ html
 
 No installation or backend setup required. Just copy and paste the iframe code into any HTML file to get started.
 
+## 👣 How to use DictSnap: Step-by-step
+
+- Type an English word in the search bar.
+- View its meaning, synonyms, and an example.
+- Click the heart icon to add it to favorites.
+- Your recent searches appear in the history section.
 
 ## 🌟 Features
 ```
