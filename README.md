@@ -1,4 +1,4 @@
-# DictSnap-API
+# DictSnap API
 DictSnap API is a user-friendly dictionary tool built using ToolJet. It helps learners explore vocabulary through clear definitions, example sentences, and phonetic. All in one simple interface.
 
 You can embed DictSnap directly into your own website using an iframe, making it easy to integrate without any backend code or authentication.
@@ -59,4 +59,4 @@ DictSnap-API/
 DictSnap is hosted entirely on ToolJet Cloud. There’s no need for API keys or backend setup. All updates to the dictionary happen within the ToolJet interface and are instantly reflected in the embedded version.
 
 ## 📄 License
-© 2025 — Built by Justin Valladares and Natanael Morales
+© 2025 DictSnap API — Built by Justin Valladares and Natanael Morales
