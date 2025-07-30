@@ -19,7 +19,7 @@ html
   height="600"
   frameborder="0"
   allowfullscreen>
-</iframe>]
+</iframe>
 ```
 
 ## 🛠️ Setup Instructions
